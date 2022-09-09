@@ -1,0 +1,7 @@
+-------------------------------------------------------
+                WELCOME TO SIP APPLICATION             
+-------------------------------------------------------
+----------INVITE REQUEST FROM PROXY SERVER TO USER AGENT SERVER---------
+The message receive from USER AGENT CLIENT is:
+
+Enter the message to send to USER AGENT CLIENT:

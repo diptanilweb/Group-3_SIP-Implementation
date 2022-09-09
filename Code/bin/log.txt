@@ -1,0 +1,30 @@
+The message send to the USER AGENT CLIENT is: hiii at time:Fri Sep  9 03:19:39 2022
+
+The message received from the USER AGENT SERVER is: hiii at time:Fri Sep  9 03:19:40 2022
+
+The message send to the USER AGENT SERVER is:  at time:Fri Sep  9 03:19:41 2022
+
+The message received from the USER AGENT CLIENT is:  at time:Fri Sep  9 03:19:41 2022
+
+The message send to the USER AGENT CLIENT is: hi ramya at time:Fri Sep  9 03:19:47 2022
+
+The message received from the USER AGENT SERVER is: hi ramya at time:Fri Sep  9 03:19:48 2022
+
+The message send to the USER AGENT SERVER is: hello kohima at time:Fri Sep  9 03:19:57 2022
+
+The message received from the USER AGENT CLIENT is: hello kohima at time:Fri Sep  9 03:19:57 2022
+
+The message send to the USER AGENT CLIENT is: how are you at time:Fri Sep  9 03:20:06 2022
+
+The message received from the USER AGENT SERVER is: how are you at time:Fri Sep  9 03:20:07 2022
+
+The message send to the USER AGENT SERVER is: fine at time:Fri Sep  9 03:20:11 2022
+
+The message received from the USER AGENT CLIENT is: fine at time:Fri Sep  9 03:20:11 2022
+
+The message send to the USER AGENT CLIENT is: BYE at time:Fri Sep  9 03:20:15 2022
+
+The message received from the USER AGENT SERVER is: BYE at time:Fri Sep  9 03:20:16 2022
+
+The message received from the USER AGENT CLIENT is:  at time:Fri Sep  9 03:29:36 2022
+

@@ -1,0 +1,9 @@
+------------------------------------------------------------------
+                    WELCOME TO SIP APPLICATION                    
+------------------------------------------------------------------
+
+
+PRESS 1:To REGISTER in server
+PRESS 2:To send INVITE
+PRESS 3:To Exit
+Please enter your choice:
